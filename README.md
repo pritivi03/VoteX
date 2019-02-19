@@ -1,0 +1,4 @@
+# VoteX
+In the 2016 presidential election, there was only a 58.1% voter turnout. That means that over 100 million Americans did not vote! On top of that, most voters only vote on presidential elections, with much lower voter turnout rates at local and state elections. We intend to fix that. VoteX is an iOS app that incorporates aspects of social media and politics to allows users to understand which political candidates that they relate with. In a Reddit-styled feed, users read about different political issues and discover what stance that politicians take on the matter. Based on who the user agrees with, a point will be added to the politician. We remind users before election day to vote and provide them with detailed information regarding who corresponded most with their beliefs.
+
+Made by Pritivi Rajkumar, Dinesh Polisetty, and Abhinav Kolli
